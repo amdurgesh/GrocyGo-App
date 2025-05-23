@@ -74,11 +74,12 @@ Responsive & Smooth UI (Jetpack Compose)
 
 
 ## Tech Stack-->
-<br>
-### Frontend-->
+
+### Frontend-->  
+
 Kotlin<br>
 Jetpack Compose<br>
 Android Studio
-<br>
+
 ### Backend-->
 Firebase (Authentication, Firestore, Storage, Cloud Functions)
