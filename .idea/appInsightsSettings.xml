@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AppInsightsSettings">
+    <option name="selectedTabId" value="Firebase Crashlytics" />
+    <option name="tabSettings">
+      <map>
+        <entry key="Firebase Crashlytics">
+          <value>
+            <InsightsFilterSettings>
+              <option name="connection">
+                <ConnectionSetting>
+                  <option name="appId" value="com.example.firstapp" />
+                  <option name="mobileSdkAppId" value="1:989322218631:android:78ba8892df5dd16cb5bc22" />
+                  <option name="projectId" value="appbase-1f050" />
+                  <option name="projectNumber" value="989322218631" />
+                </ConnectionSetting>
+              </option>
+              <option name="signal" value="SIGNAL_EARLY" />
+              <option name="timeIntervalDays" value="ONE_DAY" />
+              <option name="visibilityType" value="ALL" />
+            </InsightsFilterSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

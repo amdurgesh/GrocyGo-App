@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GrocyGo</string>
+    <string name="sweet_tooth">Sweet Tooth</string>
+    <string name="stationery">stationery</string>
+    <string name="pet_food">Pet Food</string>
+    <string name="packaged_food">Packaged Food</string>
+    <string name="munchies">Munchies</string>
+    <string name="kitchen_essentials">Kitchen Essentials</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="cleaning_essentials">Cleaning Essentials</string>
+    <string name="bread_biscuits">Bread Biscuits</string>
+    <string name="beverages">Beverages</string>
+    <string name="bath_body">Bath And Body</string>
+    <string name="fresh_fruits">Fresh Fruits</string>
+
+    <string name="shimla_apple">Shimla Apple</string>
+    <string name="papaya_semi_ripe">Papaya Semi Ripe</string>
+    <string name="pomegranate">Pomegranate</string>
+    <string name="banana_robusta">Banana Robusta</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="pepsi_can">Pepsi Can</string>
+
+
+</resources>
