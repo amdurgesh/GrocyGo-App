@@ -19,7 +19,7 @@ The Grocery App is designed to simplify grocery shopping. Whether you're managin
 
 ---
 
-## Features➤
+## 🌟Features➤
 
 User Authentication (with Firebase OTP Login)<br>
 Product Listing & Categorization<br>
@@ -30,7 +30,7 @@ Responsive & Smooth UI (Jetpack Compose)
 
 ---
 
-## Screenshots➤
+## ⛶Screenshot➤
 
 ##### Login Screen  
 
@@ -81,13 +81,13 @@ Responsive & Smooth UI (Jetpack Compose)
 
 ---
 
-## Tech Stack➤
+## 🛠️ Stack➤
 
-### Frontend➤
+### 👨🏻‍💻Frontend➤
 
 - Kotlin<br>
 - Jetpack Compose<br>
 - Android Studio
 
-### Backend➤
+### ⚙️Backend➤
 Firebase (Authentication, Firestore, Storage, Cloud Functions)
