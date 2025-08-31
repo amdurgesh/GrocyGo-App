@@ -83,7 +83,7 @@ Responsive & Smooth UI (Jetpack Compose)
 
 ## Tech Stack➤
 
-###Frontend➤
+### Frontend➤
 
 - Kotlin<br>
 - Jetpack Compose<br>
